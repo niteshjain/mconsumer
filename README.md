@@ -1,5 +1,5 @@
 # mconsumer
-Simple and naive kafka consumers which pulls metrics and writes to tcp sockets
+Simple and naive kafka consumers which pulls data from a topic and writes to tcp sockets
 
 ## To Do
 
