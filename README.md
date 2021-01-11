@@ -1,5 +1,5 @@
 # mconsumer
-Simple and naive kafka consumers which pulls data from a topic and writes to tcp sockets
+Simple and naive kafka consumers which pulls data from multiple topics and writes to tcp sockets. This was originally written to use kafka as a queue for wrting metrics to graphite.
 
 ## To Do
 
